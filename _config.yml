@@ -1,0 +1,12 @@
+title: Tomasz Berbeka # your name (or website title) here
+logo: "/images/tom_pic.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Applied Mathematics graduate with 6 years of experience in data analytics & consulting.
+  <br><br>
+  Passionate about data science & leveraging my technical skills and business knowledge to help transform data into actionable information, better decision making and competitive advantage. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/tomasz-berbeka/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: G-S6VVJRHL1G # your Google Analytics tracking ID here
